@@ -2,5 +2,8 @@
   "require-dev": 
   {
     "phpunit/phpunit": "3.7.*"
+  },
+  "require": {
+    "symfony/http-foundation": "^2.7"
   }
 }
